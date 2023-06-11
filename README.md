@@ -1,6 +1,5 @@
 # This is my first readme.
 ## Hello, my name is Yusif.
----
 What I know?
 - Java
 - C
